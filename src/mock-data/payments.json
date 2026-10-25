@@ -1,0 +1,36 @@
+{
+  "summary": {
+    "pendingAmount": 1250,
+    "pendingFormatted": "₹ 1,250.00",
+    "pendingTitle": "Pending Payment",
+    "pendingSubtitle": "Application Fee - WM-2026-000123",
+    "recentAmount": 650,
+    "recentFormatted": "₹ 650.00",
+    "recentTitle": "Recent Payment",
+    "recentDateFormatted": "Paid on 02 Oct 2026"
+  },
+  "history": [
+    {
+      "id": "pay-1",
+      "transactionId": "TXN-2026-992381",
+      "applicationNumber": "WM-2026-000118",
+      "amount": 650,
+      "amountFormatted": "₹ 650.00",
+      "paymentDate": "02 Oct 2026, 04:15 PM",
+      "paymentMethod": "UPI",
+      "status": "SUCCESS",
+      "receiptNumber": "REC-WM-2026-0091"
+    },
+    {
+      "id": "pay-2",
+      "transactionId": "TXN-2026-991102",
+      "applicationNumber": "WM-2026-000123",
+      "amount": 1250,
+      "amountFormatted": "₹ 1,250.00",
+      "paymentDate": "Pending",
+      "paymentMethod": null,
+      "status": "PENDING",
+      "receiptNumber": null
+    }
+  ]
+}

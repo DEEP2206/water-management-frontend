@@ -1,0 +1,17 @@
+[
+  {
+    "id": "prop-123",
+    "connectionNumber": "N/A",
+    "propertyId": "prop-123",
+    "citizenId": "cit-001",
+    "userName": "Rahul Sharma",
+    "propertyAddress": "123, Shree Colony, Ward 12",
+    "hasActiveConnection": false,
+    "status": "NO_ACTIVE_CONNECTION",
+    "connectionType": "Domestic",
+    "pipeDiameter": "15mm",
+    "meterNumber": null,
+    "sanctionedDate": null,
+    "lastLogin": "07 Oct 2026, 10:24 AM"
+  }
+]

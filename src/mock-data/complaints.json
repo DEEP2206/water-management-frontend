@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cmp-1",
+    "complaintNumber": "CMP-2026-004521",
+    "category": "Water Leakage",
+    "date": "05 Oct 2026",
+    "status": "IN_PROGRESS",
+    "statusLabel": "In Progress",
+    "propertyId": "prop-123",
+    "citizenId": "cit-001",
+    "description": "Continuous leakage observed near property water intake valve.",
+    "assignedDepartment": "Water Supply Department"
+  },
+  {
+    "id": "cmp-2",
+    "complaintNumber": "CMP-2026-004518",
+    "category": "Low Pressure",
+    "date": "28 Sep 2026",
+    "status": "RESOLVED",
+    "statusLabel": "Resolved",
+    "propertyId": "prop-123",
+    "citizenId": "cit-001",
+    "description": "Low pressure during morning supply hours.",
+    "assignedDepartment": "Distribution Maintenance"
+  },
+  {
+    "id": "cmp-3",
+    "complaintNumber": "CMP-2026-004512",
+    "category": "Water Quality",
+    "date": "20 Sep 2026",
+    "status": "CLOSED",
+    "statusLabel": "Closed",
+    "propertyId": "prop-123",
+    "citizenId": "cit-001",
+    "description": "Turbid water observed after pipeline repair work.",
+    "assignedDepartment": "Water Quality Inspection"
+  }
+]

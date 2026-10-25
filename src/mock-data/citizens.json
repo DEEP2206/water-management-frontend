@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cit-001",
+    "userName": "Rahul Sharma",
+    "name": "Rahul Sharma",
+    "firstName": "Rahul",
+    "lastName": "Sharma",
+    "role": "Citizen",
+    "email": "rahul.sharma@example.com",
+    "phone": "+91 98765 43210",
+    "avatar": "/avatars/rahul.png",
+    "ward": "Ward 12",
+    "zone": "Zone 4 - Kothrud",
+    "city": "Pune",
+    "propertyAddress": "123, Shree Colony, Ward 12",
+    "lastLogin": "07 Oct 2026, 10:24 AM",
+    "defaultPropertyId": "prop-123",
+    "unreadNotificationsCount": 3
+  }
+]

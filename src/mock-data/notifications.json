@@ -1,0 +1,37 @@
+[
+  {
+    "id": "notif-1",
+    "title": "Application submitted successfully",
+    "message": "Your application WM-2026-000123 has been submitted.",
+    "timeAgo": "2 hours ago",
+    "type": "success"
+  },
+  {
+    "id": "notif-2",
+    "title": "Additional document required",
+    "message": "Please upload a property ownership document for application WM-2026-000120.",
+    "timeAgo": "5 hours ago",
+    "type": "warning"
+  },
+  {
+    "id": "notif-3",
+    "title": "Payment successful",
+    "message": "₹1,250.00 paid for application WM-2026-000118.",
+    "timeAgo": "1 day ago",
+    "type": "payment"
+  },
+  {
+    "id": "notif-4",
+    "title": "Field inspection scheduled",
+    "message": "Inspection for your application has been scheduled on 10 Oct 2026.",
+    "timeAgo": "1 day ago",
+    "type": "inspection"
+  },
+  {
+    "id": "notif-5",
+    "title": "Complaint assigned",
+    "message": "Your complaint CMP-2026-004521 has been assigned to Water Supply Department.",
+    "timeAgo": "2 days ago",
+    "type": "assignment"
+  }
+]

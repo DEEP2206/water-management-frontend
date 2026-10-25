@@ -1,0 +1,19 @@
+[
+  {
+    "id": "prop-123",
+    "citizenId": "cit-001",
+    "propertyNumber": "PUN-PROP-2024-8849",
+    "ownerName": "Rahul Sharma",
+    "propertyType": "Residential",
+    "propertyAddress": "123, Shree Colony, Ward 12",
+    "locality": "Shree Colony",
+    "ward": "Ward 12",
+    "zone": "Zone 4",
+    "city": "Pune",
+    "pinCode": "411038",
+    "carpetAreaSqFt": 1150,
+    "hasActiveConnection": false,
+    "taxZone": "A",
+    "annualValue": 24000
+  }
+]

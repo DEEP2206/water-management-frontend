@@ -1,0 +1,35 @@
+[
+  {
+    "id": "app-1",
+    "applicationNumber": "WM-2026-000123",
+    "serviceType": "New Connection",
+    "submittedDate": "07 Oct 2026",
+    "status": "UNDER_REVIEW",
+    "statusLabel": "Under Review",
+    "nextAction": "Awaiting document verification",
+    "propertyId": "prop-123",
+    "citizenId": "cit-001"
+  },
+  {
+    "id": "app-2",
+    "applicationNumber": "WM-2026-000120",
+    "serviceType": "Meter Request",
+    "submittedDate": "02 Oct 2026",
+    "status": "SUBMITTED",
+    "statusLabel": "Submitted",
+    "nextAction": "Waiting for approval",
+    "propertyId": "prop-123",
+    "citizenId": "cit-001"
+  },
+  {
+    "id": "app-3",
+    "applicationNumber": "WM-2026-000118",
+    "serviceType": "New Connection",
+    "submittedDate": "28 Sep 2026",
+    "status": "APPROVED",
+    "statusLabel": "Approved",
+    "nextAction": "Payment pending",
+    "propertyId": "prop-123",
+    "citizenId": "cit-001"
+  }
+]

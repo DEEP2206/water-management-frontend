@@ -1,0 +1,105 @@
+{
+  "screenName": "water-tax-dashboard",
+  "screenTitle": "Municipal Water Management Dashboard",
+  "route": "/dashboard",
+  "header": {
+    "greetingPrefix": "Welcome back",
+    "subtitle": "Here's an overview of your water services and recent activities.",
+    "noConnectionBadge": "No Active Connection"
+  },
+  "heroBanner": {
+    "title": "Your property does not have an active Corporation water connection.",
+    "subtitle": "Get a new water connection for your property and enjoy safe and reliable water supply.",
+    "primaryActionText": "Check Water Connection",
+    "secondaryActionText": "Apply for New Connection"
+  },
+  "stats": {
+    "activeConnections": 0,
+    "pendingApplications": 0,
+    "pendingPayments": 0,
+    "openComplaints": 0
+  },
+  "services": [
+    {
+      "id": "srv-1",
+      "title": "Apply for New Water Connection",
+      "description": "Get a new connection for your property",
+      "iconName": "new-connection",
+      "href": "#apply-connection"
+    },
+    {
+      "id": "srv-2",
+      "title": "Request Water Meter",
+      "description": "Install or replace water meter",
+      "iconName": "meter",
+      "href": "#request-meter"
+    },
+    {
+      "id": "srv-3",
+      "title": "Raise Complaint",
+      "description": "Report water related issues",
+      "iconName": "complaint",
+      "href": "#raise-complaint"
+    },
+    {
+      "id": "srv-4",
+      "title": "Track Application",
+      "description": "Check status of your applications",
+      "iconName": "track",
+      "href": "#track-application"
+    },
+    {
+      "id": "srv-5",
+      "title": "Make Payment",
+      "description": "Pay bills and application fees",
+      "iconName": "payment",
+      "href": "#make-payment"
+    },
+    {
+      "id": "srv-6",
+      "title": "View Documents",
+      "description": "Access your uploaded documents",
+      "iconName": "documents",
+      "href": "#view-documents"
+    }
+  ],
+  "recentActivities": [
+    {
+      "id": "act-1",
+      "title": "Application Submitted",
+      "subtitle": "WM-2026-000123 - New Connection",
+      "timestamp": "07 Oct 2026, 10:24 AM",
+      "type": "application",
+      "statusColor": "#1A6CF0"
+    },
+    {
+      "id": "act-2",
+      "title": "Payment Completed",
+      "subtitle": "₹1,250.00 - Application Fee",
+      "timestamp": "02 Oct 2026, 04:15 PM",
+      "type": "payment",
+      "statusColor": "#0E8A42"
+    },
+    {
+      "id": "act-3",
+      "title": "Document Uploaded",
+      "subtitle": "Property Document",
+      "timestamp": "28 Sep 2026, 11:32 AM",
+      "type": "document",
+      "statusColor": "#009688"
+    },
+    {
+      "id": "act-4",
+      "title": "Complaint Registered",
+      "subtitle": "CMP-2026-004521 - Water Leakage",
+      "timestamp": "05 Oct 2026, 09:12 AM",
+      "type": "complaint",
+      "statusColor": "#8E24AA"
+    }
+  ],
+  "communityBanner": {
+    "title": "Clean Water Healthy Communities",
+    "subtitle": "Your cooperation helps us build a better and more sustainable city.",
+    "buttonText": "Learn More"
+  }
+}
